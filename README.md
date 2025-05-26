@@ -1,0 +1,1 @@
+GMU (Gated Multi-modal Unit) is a neural network module designed to fuse information from multiple modalities using dynamic gating mechanisms. It enhances cross-modal learning by selectively integrating relevant features from each input stream for tasks like classification, retrie
